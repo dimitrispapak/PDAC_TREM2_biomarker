@@ -1,0 +1,199 @@
+cytoband	19q13.2	17q12	12p12.1	19q13.2	19q13.41	8q24.13	10q22.2	6p21.1	19p13.12	7q21.2	
+q value	4.5376e-07	0.03556	0.053953	0.00054772	0.052275	0.094327	0.10688	0.16675	0.16675	0.2449	
+residual q value	1.5631e-05	0.03556	0.053953	0.054682	0.055183	0.094327	0.10688	0.16675	0.16675	0.2449	
+wide peak boundaries	chr19:39659677-40207255	chr17:37913001-38219416	chr12:24093937-26657684	chr19:38704935-38882584	chr19:51847806-52827373	chr8:123953837-146364022	chr10:75245634-76864528	chr6:40996207-42028098	chr19:15112417-15749497	chr7:90886214-92980676	
+genes in wide peak	RPS16	CSF3	hsa-mir-4302	PSMD8	hsa-mir-643	hsa-mir-1234	ADK	BYSL	hsa-mir-1470	hsa-mir-1285-1	
+	SUPT5H	PSMD3	hsa-mir-920	DPF1	hsa-mir-125a	hsa-mir-939	CAMK2G	CCND3	NOTCH3	KRIT1	
+	ZFP36	THRA	BCAT1	KCNK6	SIGLEC6	hsa-mir-661	PLAU	MDFI	AKAP8	CDK6	
+	GMFG	MED24	ITPR2	SPINT2	ETFB	hsa-mir-937	PPP3CB	NFYA	ILVBL	CYP51A1	
+	PAK4	IKZF3	KRAS	CATSPERG	FPR1	hsa-mir-1302-7	VCL	PGC	CYP4F8	PEX1	
+	DLL3	GSDMB	LRMP	C19orf33	FPR2	hsa-mir-151	NDST2	TFEB	BRD4	MTERF	
+	LGALS13	ORMDL3	SOX5	YIF1B	FPR3	hsa-mir-30d	SEC24C	NCR2	CASP14	FZD1	
+	PAF1	ZPBP2	SSPN	PPP1R14A	HAS1	hsa-mir-1208	KIAA0913	MED20	AKAP8L	AKAP9	
+	SAMD4B	GSDMA	RASSF8	GGN	LIM2	hsa-mir-1207	KAT6B	FRS3	WIZ	ANKIB1	
+	MED29	SNORD124	CASC1	SPRED3	NKG7	hsa-mir-1205	AP3M1	APOBEC2	RASAL3	SAMD9	
+	LGALS14	LRRC3C	BHLHE41		PPP2R1A	hsa-mir-1204	DUSP13	USP49	EPHX3	CCDC132	
+	LRFN1		LINC00477		ZNF175	hsa-mir-548d-1	MYOZ1	PRICKLE4	SYDE1	GATAD1	
+	PLEKHG2		LYRM5		SIGLEC5	ADCY8	SYNPO2L	TREM2	PGLYRP2	RBM48	
+	TIMM50		IFLTD1		ZNF432	ANXA13	CHCHD1	TREM1	OR1I1	MGC16142	
+	EID2B		C12orf77		SIGLEC8	BAI1	USP54	TREML2	CCDC105	SAMD9L	
+	LGALS16		MIR920		ZNF350	CYC1	FUT11	FOXP4	CYP4F22	HEPACAM2	
+	EID2		MIR4302		ZNF649	CYP11B1	DUPD1	TAF8	MIR1470	FAM133B	
+	IL28A		LOC100506451		ZNF613	CYP11B2	C10orf55	TREML2P1		LRRD1	
+	IL28B				ZNF614	EEF1D	AGAP5	LOC221442		LOC728066	
+	IL29				ZNF577	GLI4	BMS1P4	C6orf130			
+	NCCRP1				SIGLEC10	GML	LOC100507331	TSPO2			
+	SYCN				SIGLEC12	GPR20		UNC5CL			
+	SELV				ZNF616	GPT		TREML4			
+	LGALS17A				ZNF766	GRINA		TREML1			
+	LOC100129935				CLDND2	HSF1		TREML3			
+	MIR4530				LOC147646	KCNQ3		TOMM6			
+					LINC00085	LY6E		MIR4641			
+					ZNF480	LY6H					
+					ZNF836	MYC					
+					ZNF615	NDUFB9					
+					ZNF841	TONSL					
+					MIRLET7E	PLEC					
+					MIR125A	POU5F1B					
+					MIR99B	PTK2					
+					MIR643	PVT1					
+					CEACAM18	RPL8					
+					FLJ30403	ST3GAL1					
+					SIGLEC14	SLA					
+					LOC100129083	SQLE					
+						TG					
+						TSTA3					
+						ZNF7					
+						ZNF16					
+						PSCA					
+						LY6D					
+						JRK					
+						DGAT1					
+						GPAA1					
+						WISP1					
+						FOXH1					
+						RECQL4					
+						LRRC14					
+						MTSS1					
+						ZNF623					
+						KIAA0196					
+						HHLA1					
+						TRIB1					
+						NDRG1					
+						KHDRBS3					
+						PTP4A3					
+						RNF139					
+						ZHX1					
+						PUF60					
+						ZHX2					
+						DENND3					
+						ZC3H3					
+						EFR3A					
+						ARC					
+						BOP1					
+						SCRIB					
+						LRRC6					
+						FBXL6					
+						OPLAH					
+						EIF2C2					
+						COMMD5					
+						ATAD2					
+						ASAP1-IT1					
+						CPSF1					
+						CYHR1					
+						ASAP1					
+						FAM135B					
+						PHF20L1					
+						VPS28					
+						FAM203A					
+						KCNK9					
+						C8orf55					
+						FAM49B					
+						CHRAC1					
+						EXOSC4					
+						LY6K					
+						TRMT12					
+						WDYHV1					
+						SLC39A4					
+						GSDMC					
+						SLURP1					
+						SLC45A4					
+						ZFAT					
+						ZNF250					
+						PYCRL					
+						C8orf33					
+						LYNX1					
+						C8orf51					
+						DERL1					
+						GPR172A					
+						GSDMD					
+						ZNF696					
+						ARHGAP39					
+						ZNF34					
+						SHARPIN					
+						EPPK1					
+						SCRT1					
+						TRAPPC9					
+						TATDN1					
+						MAF1					
+						PARP10					
+						C8orf76					
+						TIGD5					
+						FAM83A					
+						PPP1R16A					
+						ZNF251					
+						KIFC2					
+						NAPRT1					
+						WDR67					
+						HPYR1					
+						MFSD3					
+						RHPN1					
+						FBXO32					
+						TOP1MT					
+						ZNF572					
+						LYPD2					
+						TMEM71					
+						TMEM65					
+						LOC157381					
+						FAM84B					
+						FAM91A1					
+						COL22A1					
+						ADCK5					
+						TSNARE1					
+						MAPK15					
+						NSMCE2					
+						ZNF707					
+						BREA2					
+						FAM83H					
+						LOC286094					
+						ZNF252					
+						TMED10P1					
+						C8orf77					
+						C8orf31					
+						ZFP41					
+						GPIHBP1					
+						KLHL38					
+						NRBP2					
+						ZNF517					
+						KIAA1875					
+						C8ORFK29					
+						SPATC1					
+						FLJ43860					
+						MAFA					
+						MIR30B					
+						MIR30D					
+						C8orf82					
+						FER1L6-AS1					
+						LRRC24					
+						ZFAT-AS1					
+						LINC00051					
+						C8orf73					
+						SCXB					
+						FER1L6					
+						MIR661					
+						LOC727677					
+						HEATR7A					
+						LOC728724					
+						OC90					
+						LOC731779					
+						MIR937					
+						MIR939					
+						LOC100128338					
+						SCXA					
+						LOC100130231					
+						CCDC166					
+						LOC100131726					
+						LOC100133669					
+						LOC100288181					
+						MIR1205					
+						MIR1206					
+						MIR1207					
+						MIR1204					
+						MIR1234					
+						MIR1208					
+						LOC100507117					
+						ZHX1-C8ORF76					
+						MIR4663					
+						MIR4472-1					
+						MIR4664					
+						PCAT1					
